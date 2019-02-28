@@ -2,7 +2,7 @@
 
 #### Animated resume build with HTML and CSS with a little bit of JS sprinkled in.
 
-### Demo Page link
+### <a href="https://danmalmx.github.io/knowledge_timeline/">Demo Page link</a>
 
 #### Screenshot
 
